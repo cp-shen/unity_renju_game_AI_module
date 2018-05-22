@@ -40,6 +40,7 @@ then the game would be
         The function **MUST match the types** in the following signature.
         ```c++
             void drive_ai(const char *json_in, char *json_out, int out_capacity);
+            // out_capacity is provided by external c# code and will be 100
         ```
     - (To be done by me) The c++ module will be compiled to DLL, loaded in unity and called by the managed c# script.
     - All the coordinates and indexes **should start at 0 NOT 1**.
