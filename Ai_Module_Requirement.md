@@ -8,13 +8,13 @@ for example
             "order" : 0,
             "player" : "black",
             "x" : 0,
-            "y" : 14
+            "y" : 0
         },
         {
             "order" : 1,
             "player" : "white",
             "x" : 1,
-            "y" : 14
+            "y" : 0
         }
     ]
 }
@@ -29,7 +29,7 @@ for example
     "order" : 2,
     "player" : "black",
     "x" : 0,
-    "y" : 13   
+    "y" : 1   
 }
 ```
 then the game would be  

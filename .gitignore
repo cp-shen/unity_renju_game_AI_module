@@ -1,4 +1,6 @@
-Native_Ai_Module/*
-Native_Ai_Module_2/*
-!Native_Ai_Module/main.cpp
-!Native_Ai_Module/header.h
+Native_Ai_Module_0_Deprecated/*
+Native_Ai_Module_1_Easy/*
+!Native_Ai_Module_0_Deprecated/main.cpp
+!Native_Ai_Module_0_Deprecated/header.h
+!Native_Ai_Module_1_Easy/main.cpp
+!Native_Ai_Module_1_Easy/header.h
