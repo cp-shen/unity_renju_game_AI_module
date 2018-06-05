@@ -1,2 +1,3 @@
-*.meta
-*.cs
+Native_Ai_Module/*
+!Native_Ai_Module/main.cpp
+!Native_Ai_Module/header.h
