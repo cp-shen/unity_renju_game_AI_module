@@ -176,14 +176,15 @@ int parseJSON(const char* jsonstr,char* jsonout)
 	}
 	else if(sizeofmap==1)
 	{
-		if (x1!=14&&y1!=14)
+		if (x1 != 14 && y1 != 14)
 		{
-			createJSON(jsonout,7,  7);
+			createJSON(jsonout, x1 + 1, y1 + 1);
 		}
 		else
 		{
-			createJSON(jsonout,x1 + 1, y1 + 1);
+			createJSON(jsonout, 7, 7);
 		}
+		
 		
 	}
 	else
